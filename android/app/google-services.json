@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588108523856",
+    "project_id": "notif-test-2423e",
+    "storage_bucket": "notif-test-2423e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588108523856:android:3917b61a7e4e1af5142455",
+        "android_client_info": {
+          "package_name": "com.shafi.notification_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588108523856-c3d7psagrev6c9h381v1jgkbceph7l5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnp98xabZjDZpN0oKqvqT7o6_ig4Hi188"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588108523856-c3d7psagrev6c9h381v1jgkbceph7l5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
